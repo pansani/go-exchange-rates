@@ -42,8 +42,8 @@ client-server-full-cycle/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/client-server-full-cycle.git
-   cd client-server-full-cycle
+   git clone https://github.com/pansani/go-exchange-rates.git
+   cd go-exchange-rates
    ```
 
 2. Install dependencies:
